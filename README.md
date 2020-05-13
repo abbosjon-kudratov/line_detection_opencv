@@ -1,1 +1,1 @@
-# line_detection_opencv
+# Line Detection using OpenCV python
