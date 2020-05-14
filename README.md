@@ -6,4 +6,4 @@
 
 ### The link to sample video used:  https://drive.google.com/file/d/1RMq9j_-mxkqPX_C4OYdoJmdfnp15ef0S/view?usp=drivesdk 
 
-## Follow me on twitter: twitter.com/a_kudratov
+## Follow me on twitter: https://twitter.com/a_kudratov
